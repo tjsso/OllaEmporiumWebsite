@@ -4,6 +4,8 @@ A small, self-contained website for Jade's pottery, built with Go's standard lib
 
 The entry point is `main.go`; the application and its Go tests live in `internal/site/`, with embedded website files in `internal/site/web/`. JavaScript tests live in `test/`, and the original Etsy about text is in `docs/`.
 
+<img width="560" height="240" alt="OllaWebsiteDemonstration" src="https://github.com/user-attachments/assets/1ecd2063-3a93-4b69-9d74-2b5fc4088de9" />
+
 ## Run locally
 
 With Go 1.20 or newer installed, run:
